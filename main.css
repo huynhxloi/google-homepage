@@ -1,0 +1,25 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	display: block;
+
+}
+.navbar {
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	position: absolute;
+	right: 0;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+#name, #gmail, #images, #boxes, #bell, #person {
+	display: inline;
+	/*padding: 4px;*/
+	margin: 4px 4px 4px 10px
+
+}
+.logo {
+	display: block;
+	text-align: -webkit-center;
+	padding-top: 112px;
+}
